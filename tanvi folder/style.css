@@ -1,0 +1,48 @@
+h1{
+    border: solid;
+    color: rgb(255, 255, 255);
+    background-color: rgb(108, 212, 178);
+    
+}
+
+p { text-align: center;}
+
+div {
+
+    color: ghostwhite;
+    background-color:lightcoral
+    
+}
+
+
+.h3  {
+    display:flex;
+    justify-content: space-evenly; 
+    flex-wrap:wrap;
+    padding-left: 20px;
+    
+}
+
+.h4 {
+    display:flex;
+    justify-content:  flex-end;
+
+ 
+}
+.Tanvi {
+    margin: 10px;
+    justify-content: center;
+
+}
+a:link { 
+    color: pink
+
+
+}
+a:visited {
+    color: pink 
+}
+
+.game:hover img {
+    opacity: 0.3;
+}
